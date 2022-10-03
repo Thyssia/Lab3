@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Lab_3</string>
+    <string name="Name">Entrez votre nom</string>
+    <string name="hint"></string>
+    <string name="next">suivant</string>
+    <string name="welcome">Bienvenue!</string>
+    <string name="thanks">Merci</string>
+    <string name="dont">ne m\'appelle pas comme ça</string>
+
+</resources>
